@@ -1,32 +1,32 @@
-#adwords.google.com
-#backtype.com
-#cc-dt.com
-#crashlytics.com
-#destinationurl.com
+# adwords.google.com
+# backtype.com
+# cc-dt.com
+# crashlytics.com
+# destinationurl.com
 # Blocks like counts
-facebook.com
-facebook.de
-facebook.fr
-facebook.net
-#facebookofsex.com
-#fb.com
-#friendfeed.com
-#gmail.com
-#googlemail.com
-#googletagservices.com
-#mail.google.com
-#orkut.com
+# facebook.com
+# facebook.de
+# facebook.fr
+# facebook.net
+# facebookofsex.com
+# fb.com
+# friendfeed.com
+# gmail.com
+# googlemail.com
+# googletagservices.com
+# mail.google.com
+# orkut.com
 # Blocks plus one counts
-plus.google.com
-plusone.google.com
+# plus.google.com
+# plusone.google.com
 # Breaks embedded tweet decks
 tweetdeck.com
 # Blocking twimg totally breaks twitter
 twimg.com
 # Breaks twitter counts
-twitter.com
-#twitter.jp
-#voice.google.com
-#wave.google.com
+# twitter.com
+# twitter.jp
+# voice.google.com
+# wave.google.com
 # Breaks linkedin
 licdn.com

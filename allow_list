@@ -24,8 +24,8 @@ facebook.net
 tweetdeck.com
 # Blocking twimg totally breaks twitter
 twimg.com
-# Breaks twitter counts
-# twitter.com
+# Breaks embedded tweets
+twitter.com
 # twitter.jp
 # voice.google.com
 # wave.google.com

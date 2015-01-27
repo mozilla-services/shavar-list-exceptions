@@ -7,7 +7,8 @@
 # facebook.com
 # facebook.de
 # facebook.fr
-# facebook.net
+# Breaks facebook connect (login on other websites)
+facebook.net
 # facebookofsex.com
 # fb.com
 # friendfeed.com

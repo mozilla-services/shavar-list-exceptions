@@ -31,3 +31,5 @@ twitter.com
 # twitter.jp
 # voice.google.com
 # wave.google.com
+# Breaks downloads in Yahoo! Mail (bug #1138056)
+ymail.com

@@ -15,6 +15,8 @@ facebook.net
 # gmail.com
 # googlemail.com
 # googletagservices.com
+# Breaks linkedin
+licdn.com
 # mail.google.com
 # orkut.com
 # Blocks plus one counts
@@ -29,5 +31,3 @@ twitter.com
 # twitter.jp
 # voice.google.com
 # wave.google.com
-# Breaks linkedin
-licdn.com
